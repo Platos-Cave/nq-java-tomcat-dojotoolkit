@@ -7,3 +7,4 @@ Neuralquest is dependent on:
 * dGrid
 * dStore
 * ThreeJs
+# nq-java-tomcat-dojotoolkit
